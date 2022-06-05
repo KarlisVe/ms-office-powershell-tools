@@ -1,0 +1,9 @@
+convertTo-Docx/docx/*.*
+convertTo-Docx/doc/*.*
+
+convertTo-Xlsx/xls/*
+
+extract-office-media/officeMedia/**
+
+!.gitkeep
+!*.ps1
