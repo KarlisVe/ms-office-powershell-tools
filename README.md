@@ -5,6 +5,7 @@
 * `ConvertTo-Docx` - converts doc files in one folder to docx and saves in another folder (see for know issues in source file - borders for tables)
 * `ConvertTo-Xlsx` - converts xls files to xlsx and stores in same directory
 * `Extract-office-media` - extracts media files from docx, xlsx and stores in `offficeMedia` folder
+* `open-link-with-clipboard` - start https (but not limted) with specific link where part of it is replaced by data from clipboard
 
 **Important** tools are not heavily tested at the moment.
 
